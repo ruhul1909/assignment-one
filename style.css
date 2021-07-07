@@ -7,7 +7,7 @@ h1{font-size: 25px;
 .green-color{
     color: green;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .width-split{
